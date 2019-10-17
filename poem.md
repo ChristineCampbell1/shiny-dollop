@@ -1,6 +1,6 @@
 **#Dover Beach**
 
-_By [Matthew Arnold] (https://en.wikipedia.org/wiki/Matthew_Arnold)_
+_By [Matthew Arnold](https://en.wikipedia.org/wiki/Matthew_Arnold)_
 
 The sea is calm tonight.
 The tide is full, the moon lies fair
